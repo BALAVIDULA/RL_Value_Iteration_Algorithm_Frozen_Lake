@@ -1,7 +1,8 @@
 # RL_Value_Iteration_Algorithm_Frozen_Lake
 Solving frozen lake problem using Value Iteration Algorithm
 
-a) Implementin value iteration algorithm on frozen lake problem and display the optimal policy
+a) Implementing value iteration algorithm on frozen lake problem and display the optimal policy
+
 b) Applying the above policy on the frozen lake problem to solve it. Write the observations
 
 Refer the below material for the value iteration portion 
